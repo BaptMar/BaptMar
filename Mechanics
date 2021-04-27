@@ -1,7 +1,0 @@
-1 Personnage
-Système de "chapitres/étages" ayant chacune un thème spécifique en roguelike. (Comme des sets de map par exemple.)
-Des énigmes (Un event pour trouver une objet clé et un event d'une porte qui requiert l'objet clé par exemple.)
-Mettre des éléments de RPG/Combat. (Des stats de bases devront être fait et des idées d'event pour améliorer/Nicker le personnage)
-Plusieurs fin (code au conditionnel, dépendant de si t'as réussi tel chose ou pas par exemple.)
-
-???

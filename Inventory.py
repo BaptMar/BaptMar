@@ -1,0 +1,1 @@
+#Le code pour l'inventaire hors combat/EN combat vient ici.
