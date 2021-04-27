@@ -1,0 +1,1 @@
+#Les intéractions de combat vont ici.

@@ -1,0 +1,1 @@
+#Tout les ennemies pouvant apparaître à n'importe quel niveaux vont ici (comme des bandits.)

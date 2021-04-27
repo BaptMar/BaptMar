@@ -1,0 +1,1 @@
+#Les notes/recherches/codes sur la RNG vont ici.
