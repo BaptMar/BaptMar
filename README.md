@@ -13,3 +13,4 @@ Tout code sur le COMBAT se situe dans Combat_Interactions.
 
 Le fichier Jeux contient tout le code "essentiel" pour faire fonctionner le jeux et switcher les pools (et donc de niveaux, d'ennemies etc.)
 
+/!\ A RENDRE LE 8 JUIN!!  /!\
